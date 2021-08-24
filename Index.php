@@ -8,11 +8,12 @@
 </head>
 <body>
     <center>
-    <form action="datos.php" method="post" enctype="multipart/form-data">
-    
-       <input type="file" name="img" id="img" required><br>
-     <button type="submit">Subir</button>
-    </form>
+            <form action="datos.php" method="post" enctype="multipart/form-data">
+            
+                    <input type="file" name="img" id="img" required><br>
+                    <button type="submit">Subir</button>
+                    
+            </form>
     </center>
 </body>
 </html>
